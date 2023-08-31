@@ -1,1 +1,51 @@
 /*  your css code here. If applicable */
+*{
+	background: rgb(204,204,204);
+}
+
+h1{
+	text-align: center;
+}
+
+ul{
+	background: white;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 5px;
+}
+li{
+	background: white;
+	list-style-type: none;
+}
+
+h2{
+	text-align: center;
+	
+}
+
+.player_one{
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+}
+.container{
+	background: rgb(255,255,255);
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid black
+}
+.container video{
+	text-align: center;
+}
+.player_two{
+	width: 85%;
+	text-align: center;
+	background: rgb(255,255,255);
+}
+.head{
+	background-color: rgb(255, 255, 255);
+}
+a{
+	text-decoration-line: none;
+	color: black;
+	background: rgb(255,255,255);
+}
